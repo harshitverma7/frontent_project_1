@@ -2,7 +2,7 @@ div {
     height: 200px;
     width: 200px;
     border-radius: 50%;
-    background-color: chocolate;
+    background-color: rgb(71, 59, 61);
     border: 2px solid black;
     position:absolute;
     top:200px   ;
@@ -19,7 +19,7 @@ div {
     50%  {top: 100px;}
     75%  {top: 200px;}
     100% {top: 0px;}
-    from{background-color: chocolate;}
-    to{background-color: red;}
+    from{background-color: rgb(84, 160, 122);}
+    to{background-color: rgb(229, 228, 233);}
 }
 div :hover{}
